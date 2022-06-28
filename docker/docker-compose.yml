@@ -1,6 +1,6 @@
 version: "3.3"
 services:
-    vdvae_cuda101:
+    vdvae_cuda102:
         build:
             context: .
             dockerfile: Dockerfile
